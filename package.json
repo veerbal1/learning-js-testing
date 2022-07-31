@@ -1,0 +1,24 @@
+{
+  "name": "learning-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".textUtilities.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veerbal1/learning-js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veerbal1/learning-js-testing/issues"
+  },
+  "homepage": "https://github.com/veerbal1/learning-js-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
